@@ -20,3 +20,14 @@ Music: Dimitri Frety & Simon Gigant
 __________________________________________________
 
 Game made during the Global Game Jam 2019 in Besançon (France)
+
+Status	: Released
+Platforms :	Android, HTML5
+Authors :	Zebu, marius munier, jojo58fr - Joachim Miens
+Made with	Unity, Aseprite, Adobe Photoshop, FL Studio
+
+Tags :	
+
+2D, ggj19, Global Game Jam, lofi-hiphop, tamagotchi
+Inputs	Mouse, Touchscreen
+Accessibility	Textless
