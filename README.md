@@ -1,3 +1,6 @@
+# PROJECT MOVED TO http://extern.startingames.fr:8030/games/the-home-where-i-live
+
+
 # The-Home-Where-I-Live
 A lofi hiphop radio girl in a tamagotchi game for smartphone and windows.
 
